@@ -10,23 +10,26 @@
     <ol>
         <li><Módulo 1 ></li>
         <li><Visão Geral></li>
-        <li>Noções Básicas do Usuário Salesforce<a href="https://trailhead.salesforce.com/pt-BR/content/learn/modules/lex_salesforce_basics"></a></li>
-        <li>Noções Básicas do Salesforce Platform<a href="https://trailhead.salesforce.com/pt-BR/content/learn/modules/lex_salesforce_basics"></a></li>
-        <li>Configurações da Organização da Empresa<a href="https://trailhead.salesforce.com/pt-BR/content/learn/modules/company_wide_org_settings?trail_id=integrate-a-new-business-organization"></a></li>
-        <li>Modelagem de Dados<a href="https://trailhead.salesforce.com/pt-BR/content/learn/modules/data_modeling"></a></li>
+            <li>Noções Básicas do Usuário Salesforce<a href="https://trailhead.salesforce.com/pt-BR/content/learn/modules/lex_salesforce_basics"></a></li>
+            <li>Noções Básicas do Salesforce Platform<a href="https://trailhead.salesforce.com/pt-BR/content/learn/modules/lex_salesforce_basics"></a></li>
+            <li>Configurações da Organização da Empresa<a href="https://trailhead.salesforce.com/pt-BR/content/learn/modules/company_wide_org_settings?trail_id=integrate-a-new-business-organization"></a></li>
+            <li>Modelagem de Dados<a href="https://trailhead.salesforce.com/pt-BR/content/learn/modules/data_modeling"></a></li>
         
         <li><Módulo 2 ></li>
         <li><Segurança de Dados></li>
-        <li>Gerenciamento de Usuário<a href="https://trailhead.salesforce.com/pt-BR/content/learn/modules/lex_implementation_user_setup_mgmt"></a></li>
-        <li>Segurança de Dados<a href="https://trailhead.salesforce.com/pt-BR/content/learn/modules/data_security"></a></li>
-        <li>Administração do Chatter<a href="https://trailhead.salesforce.com/pt-BR/content/learn/modules/lex_implementation_chatter"></a></li>
-        <li>Conta e Contatos para LEX<a href="https://trailhead.salesforce.com/pt-BR/content/learn/modules/accounts_contacts_lightning_experience"></a></li>
-        <li>Grupos de Conjuntos e Permissões<a href="https://trailhead.salesforce.com/pt-BR/content/learn/modules/permission-set-groups"></a></li>
-        <li>Aprovar Registros com Processos de Aprovações<a href="https://trailhead.salesforce.com/pt-BR/content/learn/modules/business_process_automation"></a></li>
-        <li>Visão Geral da Segurança de Dados<a href="https://trailhead.salesforce.com/pt-BR/content/learn/modules/data_security/data_security_overview"></a></li>
+            <li>Gerenciamento de Usuário<a href="https://trailhead.salesforce.com/pt-BR/content/learn/modules/lex_implementation_user_setup_mgmt"></a></li>
+            <li>Segurança de Dados<a href="https://trailhead.salesforce.com/pt-BR/content/learn/modules/data_security"></a></li>
+            <li>Administração do Chatter<a href="https://trailhead.salesforce.com/pt-BR/content/learn/modules/lex_implementation_chatter"></a></li>
+            <li>Conta e Contatos para LEX<a href="https://trailhead.salesforce.com/pt-BR/content/learn/modules/accounts_contacts_lightning_experience"></a></li>
+            <li>Grupos de Conjuntos e Permissões<a href="https://trailhead.salesforce.com/pt-BR/content/learn/modules/permission-set-groups"></a></li>
+            <li>Aprovar Registros com Processos de Aprovações<a href="https://trailhead.salesforce.com/pt-BR/content/learn/modules/business_process_automation"></a></li>
+            <li>Visão Geral da Segurança de Dados<a href="https://trailhead.salesforce.com/pt-BR/content/learn/modules/data_security/data_security_overview"></a></li>
 
         <li><Módulo 3 ></li>
         <li><CRM - Personalização></li>
+            <li>Personalização do Lightning Experience<a href="https://trailhead.salesforce.com/pt-BR/content/learn/modules/lex_customization"></a></li>
+            <li>Criar um processo para gerenciar casos de suporte<a href="https://trailhead.salesforce.com/pt-BR/content/learn/projects/create-a-process-for-managing-support-cases"></a></li>
+
 
 
         
