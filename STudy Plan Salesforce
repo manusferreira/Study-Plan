@@ -84,7 +84,9 @@
             <li>Mensagens transacionais<a href="https://trailhead.salesforce.com/pt-BR/content/learn/modules/transactional-messaging?trail_id=create-and-send-targeted-emails-with-email-studio"></a></li>
             <li>Usar o Marketing Cloud Connect para integração com o Salesforce CRM<a href="https://trailhead.salesforce.com/pt-BR/content/learn/modules/marketing-cloud-connect"></a></li>
         <li>Módulo 6<a href=""></a></li>
+            <li>Exibir resultados de rastreamento para um envio de e-mail<a href="https://help.salesforce.com/s/articleView?id=mktg.mc_es_view_send_tracking_results.htm&type=5"></a></li>
             <li>Salesforce Flow<a href=""></a></li>
+
 
 
 
