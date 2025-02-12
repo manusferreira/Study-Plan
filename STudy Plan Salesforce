@@ -3,19 +3,20 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Lista CRM</title>
+    <title>Lista CRM e MARKETING CLOUD</title>
 </head>
 <body>
-    <ol>
     <h1>CRM</h1>
+    <ol>
         <li>Módulo 1</li>
             <ul>
                 <li>Visão Geral</li>
             </ul>  
-                <li>Noções Básicas do Usuário Salesforce<a href="https://trailhead.salesforce.com/pt-BR/content/learn/modules/lex_salesforce_basics"></a></li>
-                <li>Noções Básicas do Salesforce Platform<a href="https://trailhead.salesforce.com/pt-BR/content/learn/modules/lex_salesforce_basics"></a></li>
-                <li>Configurações da Organização da Empresa<a href="https://trailhead.salesforce.com/pt-BR/content/learn/modules/company_wide_org_settings?trail_id=integrate-a-new-business-organization"></a></li>
-                <li>Modelagem de Dados<a href="https://trailhead.salesforce.com/pt-BR/content/learn/modules/data_modeling"></a></li>
+        </li>
+        <li>Noções Básicas do Usuário Salesforce<a href="https://trailhead.salesforce.com/pt-BR/content/learn/modules/lex_salesforce_basics"></a></li>
+        <li>Noções Básicas do Salesforce Platform<a href="https://trailhead.salesforce.com/pt-BR/content/learn/modules/lex_salesforce_basics"></a></li>
+        <li>Configurações da Organização da Empresa<a href="https://trailhead.salesforce.com/pt-BR/content/learn/modules/company_wide_org_settings?trail_id=integrate-a-new-business-organization"></a></li>
+        <li>Modelagem de Dados<a href="https://trailhead.salesforce.com/pt-BR/content/learn/modules/data_modeling"></a></li>
         <li>Módulo 2</li>
             <ul>
                 <li>Segurança de Dados>/li>
