@@ -8,14 +8,14 @@
 <body>
     <h1>CRM</h1>
     <ol>
-        <li><Módulo 1 ></li>
-        <li><Visão Geral></li>
+        <li>Módulo 1 </li>
+        <li>Visão Geral</li>
             <li>Noções Básicas do Usuário Salesforce<a href="https://trailhead.salesforce.com/pt-BR/content/learn/modules/lex_salesforce_basics"></a></li>
             <li>Noções Básicas do Salesforce Platform<a href="https://trailhead.salesforce.com/pt-BR/content/learn/modules/lex_salesforce_basics"></a></li>
             <li>Configurações da Organização da Empresa<a href="https://trailhead.salesforce.com/pt-BR/content/learn/modules/company_wide_org_settings?trail_id=integrate-a-new-business-organization"></a></li>
             <li>Modelagem de Dados<a href="https://trailhead.salesforce.com/pt-BR/content/learn/modules/data_modeling"></a></li>
-        <li><Módulo 2 ></li>
-        <li><Segurança de Dados></li>
+        <li>Módulo 2 >/li>
+        <li>Segurança de Dados>/li>
             <li>Gerenciamento de Usuário<a href="https://trailhead.salesforce.com/pt-BR/content/learn/modules/lex_implementation_user_setup_mgmt"></a></li>
             <li>Segurança de Dados<a href="https://trailhead.salesforce.com/pt-BR/content/learn/modules/data_security"></a></li>
             <li>Administração do Chatter<a href="https://trailhead.salesforce.com/pt-BR/content/learn/modules/lex_implementation_chatter"></a></li>
@@ -23,8 +23,8 @@
             <li>Grupos de Conjuntos e Permissões<a href="https://trailhead.salesforce.com/pt-BR/content/learn/modules/permission-set-groups"></a></li>
             <li>Aprovar Registros com Processos de Aprovações<a href="https://trailhead.salesforce.com/pt-BR/content/learn/modules/business_process_automation"></a></li>
             <li>Visão Geral da Segurança de Dados<a href="https://trailhead.salesforce.com/pt-BR/content/learn/modules/data_security/data_security_overview"></a></li>
-        <li><Módulo 3 ></li>
-        <li><CRM - Personalização></li>
+        <li>Módulo 3 >/li>
+        <li>CRM - Personalização>/li>
             <li>Personalização do Lightning Experience<a href="https://trailhead.salesforce.com/pt-BR/content/learn/modules/lex_customization"></a></li>
             <li>Criar um processo para gerenciar casos de suporte<a href="https://trailhead.salesforce.com/pt-BR/content/learn/projects/create-a-process-for-managing-support-cases"></a></li>
             <li>Personalização do aplicativo móvel Salesforce<a href="https://trailhead.salesforce.com/pt-BR/content/learn/modules/salesforce1_mobile_app"></a></li>
@@ -32,8 +32,8 @@
             <li>Noções básicas do aplicativo móvel Salesforce<a href="https://trailhead.salesforce.com/pt-BR/content/learn/modules/lex_salesforce1_basics"></a></li>
             <li>Salesforce Mobile App Rollout<a href="https://trailhead.salesforce.com/pt-BR/content/learn/modules/salesforce1_rollout?trail_id=salesforce1_mgmt"></a></li>
             <li>Desenvolvimento de estratégia móvel<a href="https://trailhead.salesforce.com/pt-BR/content/learn/modules/mobile_strategy?trail_id=salesforce1_mgmt"></a></li>           
-        <li><Módulo 4></li>
-            <li><CRM - Aplicativos></li>
+        <li>Módulo 4>/li>
+        <li>CRM - Aplicativos</li>
             <li>Recursos do Service Cloud Essentials<a href="https://trailhead.salesforce.com/pt-BR/content/learn/modules/service-cloud-essentials-features"></a></li>
             <li>Noções básicas do Service Cloud para LEX<a href="https://trailhead.salesforce.com/pt-BR/content/learn/modules/service_lex"></a></li>
             <li>Noções básicas do Knowledge para LEX<a href="https://trailhead.salesforce.com/pt-BR/content/learn/modules/lightning-knowledge-basics"></a></li>
@@ -41,14 +41,14 @@
             <li>Produtos, cotações e contratos<a href="https://trailhead.salesforce.com/pt-BR/content/learn/modules/sales_admin_products_quotes_contracts"></a></li>
             <li>Sales Cloud Einsteina<a href="https://trailhead.salesforce.com/pt-BR/content/learn/modules/ai_sales"></a></li>
             <li>Engajamento do usuário<a href="https://trailhead.salesforce.com/pt-BR/content/learn/modules/user-engagement"></a></li>
-        <li><Módulo 5></li>
-            <li><CRM - Automação e Analytics></li>
+        <li>Módulo 5</li>
+        <li>CRM - Automação e Analytics</li>
              <li>Salesforce Flow<a href="https://trailhead.salesforce.com/pt-BR/content/learn/modules/flow-basics"></a></li>
              <li>Flow Builder<a href="https://trailhead.salesforce.com/pt-BR/content/learn/modules/flow-concepts-quick-look"></a></li>
              <li>Dados e Ações do Flow<a href="https://trailhead.salesforce.com/pt-BR/content/learn/modules/data-and-actions-in-flows"></a></li>
              <li>Relatórios e painéis<a href="https://trailhead.salesforce.com/pt-BR/content/learn/modules/lex_implementation_reports_dashboards"></a></li>
-        <li><Módulo 6></li>
-            <li><CRM - GERENCIAMENRO DE DADOS></li>
+        <li>Módulo 6</li>
+        <li>CRM - GERENCIAMENRO DE DADOS</li>
             <li>Conectar sua organização de desenvolvedor ao TH<a href="https://tvb.my.salesforce.com/sfc/p/#1N00000331OF/a/3l000000cgAv/myPWTbCjKYZyLQ4DVENvuPnQS2BL.baqd.s0fYrjbb0"></a></li>
             <li>Melhorar a qualidade dos dados para um aplicativo Recruiting<a href="https://trailhead.salesforce.com/pt-BR/content/learn/projects/improve-data-quality-for-a-recruiting-app"></a></li>
             <li>Qualidade de Dados <a href="https://trailhead.salesforce.com/pt-BR/content/learn/modules/data_quality"></a></li>
@@ -56,8 +56,7 @@
             <li>Gerenciamento de dados<a href="https://trailhead.salesforce.com/pt-BR/content/learn/modules/lex_implementation_data_management"></a></li>
             <li>Fórmulas e validação<a href="https://trailhead.salesforce.com/pt-BR/content/learn/modules/point_click_business_logic"></a></li>
     <h1>MARKETING CLOUD</h1>
-        <li><Módulo 1></li>
-            <li><CRM - FUNDAMENTOS DO MARKETING CLOUD></li>
+        <li>Módulo 1</li>
             <li>Conhecer o Marketing Cloud Engagement<a href="https://trailhead.salesforce.com/pt-BR/content/learn/modules/marketing-cloud-quick-look?trail_id=personalize_customer_journeys_marketing_cloud&trailmix_creator_id=professorsalesforce&trailmix_slug=trilha-campus-caldeira-marketing-digital"></a></li>
             <li>Noções básicas do Marketing Cloud Engagement<a href="https://trailhead.salesforce.com/pt-BR/content/learn/modules/mrkt_cloud_basics?trail_id=personalize_customer_journeys_marketing_cloud&trailmix_creator_id=professorsalesforce&trailmix_slug=trilha-campus-caldeira-marketing-digital"></a></li>
             <li> Produtos do Marketing Cloud Engagement<a href="https://trailhead.salesforce.com/pt-BR/content/learn/modules/mrkt_cloud_studios_builders?trail_id=personalize_customer_journeys_marketing_cloud&trailmix_creator_id=professorsalesforce&trailmix_slug=trilha-campus-caldeira-marketing-digital"></a></li>
@@ -65,7 +64,7 @@
             <li>Recursos do Marketing Cloud Engagement<a href="https://trailhead.salesforce.com/pt-BR/content/learn/modules/marketing-cloud-resources?trail_id=personalize_customer_journeys_marketing_cloud&trailmix_creator_id=professorsalesforce&trailmix_slug=trilha-campus-caldeira-marketing-digital"></a></li>
             <li>Prontidão de versão do Marketing Cloud Engagement<a href="https://trailhead.salesforce.com/pt-BR/content/learn/modules/marketing-cloud-releases?trail_id=personalize_customer_journeys_marketing_cloud&trailmix_creator_id=professorsalesforce&trailmix_slug=trilha-campus-caldeira-marketing-digital"></a></li>
             <li>Produtos Marketing Cloud<a href="https://trailhead.salesforce.com/pt-BR/content/learn/modules/mrkt_cloud_studios_builders?trail_id=personalize_customer_journeys_marketing_cloud"></a></li>
-        <li><Módulo 2></li>
+        <li>Módulo 2</li>
             <li>Gerenciamento de contatos do Marketing Cloud<a href="https://trailhead.salesforce.com/pt-BR/content/learn/modules/marketing-cloud-contact-management?trailmix_creator_id=cavendano1&trailmix_slug=training-data-extension-email-marketing"></a></li>
             <li> <li>Marketing Cloud Data Management<a href=""></a></li><a href="https://trailhead.salesforce.com/pt-BR/content/learn/modules/marketing-cloud-data-management"></a></li>
             <li>Aprender fundamentos de administração no Marketing Cloud<a href="https://trailhead.salesforce.com/pt-BR/content/learn/trails/administer-marketing-cloud?trailmix_creator_id=professorsalesforce&trailmix_slug=trilha-campus-caldeira-marketing-digital"></a></li>
